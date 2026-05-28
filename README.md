@@ -41,11 +41,10 @@
 
 <img align="right" src="./assets/sakiko_focus.png" alt="Sakiko" height="260" />
 
-- 🧠 Advancing **KCP**, my C++26-inspired compiler prototype: frontend, diagnostics, stdlib, codegen, and miniC lab infrastructure.
-- 🧭 Improving **CLion tooling** for my language: semantic navigation, run configurations, inlay hints, and editor workflow.
-- 🚀 Maintaining **CPH**, a competitive-programming toolkit for CLion and browser workflows.
-- 🐧 Building Linux developer tools around **Codex**, including packaging, CI, release automation, and desktop integration.
-- 🔬 Exploring **lifelong person re-identification**, stable representation learning, and ML systems.
+- 🧠 Advancing **KCP**, my C++26-inspired language/compiler prototype: diagnostics, stdlib formatting, IR/codegen, and miniC lab infrastructure.
+- 🧭 Extending **KCP's CLion tooling**: PSI parsing, references, rename, completion, syntax highlighting, and editor workflow.
+- 🚀 Maintaining **CPH Target Runner**, a CLion competitive-programming toolkit with sample management, Competitive Companion import, and Codeforces submission workflows.
+- 🐧 Shipping **Codex tooling for Fedora KDE**: RPM/DNF packaging, CI and release automation, GitHub Pages repository metadata, and desktop integration.
 
 <br clear="right"/>
 
