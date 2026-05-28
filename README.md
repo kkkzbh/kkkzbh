@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="kkkzbh GitHub profile banner" width="100%" />
+  <img src="./assets/banner.svg" alt="kkkzbh GitHub profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_avemujica_white.png" />
-    <img src="./assets/logo_avemujica.png" alt="Ave Mujica" width="260" />
-  </picture>
+  <img src="./assets/logo_avemujica.svg" alt="Ave Mujica inspired logo" width="360" />
 </p>
 
 <h1 align="center">Hi, I'm kkkzbh ✦</h1>
@@ -25,10 +22,10 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider.png" alt="divider" width="88%" />
+  <img src="./assets/divider.svg" alt="divider" width="88%" />
 </p>
 
-<img align="right" src="./assets/mutsumi.png" alt="Mutsumi" height="230" />
+<img align="right" src="./assets/side_card.svg" alt="Mujica style side card" height="245" />
 
 ### ✦ About me
 
@@ -120,7 +117,7 @@ while (alive) {
 ```
 
 <p align="center">
-  <img src="./assets/divider.png" alt="divider" width="72%" />
+  <img src="./assets/divider.svg" alt="divider" width="72%" />
 </p>
 
 <p align="center">
