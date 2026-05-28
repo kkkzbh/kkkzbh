@@ -1,0 +1,41 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#120917"/>
+      <stop offset="0.48" stop-color="#28102f"/>
+      <stop offset="1" stop-color="#08040d"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1280 110) rotate(90) scale(105)">
+      <stop offset="0" stop-color="#f7e9ff"/>
+      <stop offset="0.58" stop-color="#b68bd8"/>
+      <stop offset="1" stop-color="#4e2b67" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="420" rx="34" fill="url(#bg)"/>
+  <rect x="22" y="22" width="1556" height="376" rx="28" stroke="#7d4da2" stroke-width="2" opacity="0.65"/>
+  <circle cx="1280" cy="110" r="120" fill="url(#moon)" opacity="0.95"/>
+  <path d="M1150 330C1255 244 1378 247 1496 330" stroke="#5d326e" stroke-width="2" opacity="0.6"/>
+  <path d="M0 315C166 260 276 327 430 285C581 244 655 303 788 272C930 240 1065 237 1205 288C1335 335 1465 292 1600 250V420H0V315Z" fill="#1a0b22" opacity="0.72"/>
+  <g opacity="0.95" filter="url(#glow)">
+    <text x="92" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700" fill="#f6eefc">kkkzbh</text>
+    <text x="94" y="190" font-family="Inter, Segoe UI, sans-serif" font-size="23" letter-spacing="2.5" fill="#d9badf">C++ · Compilers · AI Infrastructure</text>
+    <text x="96" y="246" font-family="Inter, Segoe UI, sans-serif" font-size="19" fill="#a986b5">CS undergraduate @ Hebei University</text>
+    <text x="96" y="286" font-family="JetBrains Mono, Consolas, monospace" font-size="20" fill="#cf2f73">while (alive) build(&quot;systems&quot;);</text>
+  </g>
+  <g transform="translate(1030 92)" opacity="0.86">
+    <path d="M98 0C135 12 156 43 156 83C156 134 118 171 77 171C36 171 0 134 0 83C0 43 22 12 59 0C54 28 60 47 78 58C96 47 104 28 98 0Z" fill="#271032" stroke="#c59bdd" stroke-width="3"/>
+    <path d="M51 95C62 84 78 84 89 95" stroke="#f2d7ff" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="56" cy="72" r="7" fill="#f2d7ff"/><circle cx="101" cy="72" r="7" fill="#f2d7ff"/>
+  </g>
+  <g opacity="0.75">
+    <circle cx="92" cy="340" r="3" fill="#e9d7ff"/><circle cx="250" cy="76" r="2" fill="#e9d7ff"/><circle cx="480" cy="330" r="2" fill="#e9d7ff"/><circle cx="790" cy="86" r="2.5" fill="#e9d7ff"/><circle cx="1398" cy="216" r="2" fill="#e9d7ff"/><circle cx="1512" cy="78" r="2.5" fill="#e9d7ff"/>
+  </g>
+  <g transform="translate(1354 280)" opacity="0.78">
+    <path d="M38 70C14 59 6 34 24 18C43 0 68 8 77 30C87 10 111 2 130 18C149 35 140 61 116 72C91 84 66 84 38 70Z" fill="#501735" stroke="#cf2f73" stroke-width="3"/>
+    <path d="M77 30C74 55 74 75 77 100" stroke="#b08a44" stroke-width="3"/>
+  </g>
+</svg>
