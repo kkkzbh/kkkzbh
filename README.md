@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="kkkzbh GitHub profile banner" width="100%" />
+  <img src="./assets/banner.png" alt="kkkzbh GitHub profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/logo_avemujica.png" alt="Ave Mujica inspired logo" width="360" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_avemujica_white.png" />
+    <img src="./assets/logo_avemujica.png" alt="Ave Mujica" width="260" />
+  </picture>
 </p>
 
 <h1 align="center">Hi, I'm kkkzbh ✦</h1>
