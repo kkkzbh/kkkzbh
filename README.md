@@ -30,9 +30,9 @@
 <img align="right" src="./assets/mutsumi.png" alt="Mutsumi" height="230" />
 
 * 🎓 CS undergraduate with a genuine love for computer science.
-* 🧩 C++ enthusiast interested in low-level systems, with hands-on experience in data structures, operating systems, TCP, and a compiler of my own.
-* 🏆 Algorithmic problem-solving lover and **ICPC / CCPC** participant.
-* 🤖 Curious about **AI** and **agents**, hoping to explore related research and engineering problems.
+* 🧩 C++ enthusiast drawn to low-level systems, with hands-on experience in data structures, operating systems, TCP, and a compiler of my own.
+* 🏆 Algorithmic problem-solving lover; **ICPC Invitational Bronze** medalist, **CCPC Invitational Silver** medalist, and **Provincial Gold** medalist.
+* 🤖 Interested in both **AI / Agent systems** and **low-level engineering**, hoping to explore related research and engineering problems.
 * 🌙 Motto: `I want to sleep, but the compiler still has diagnostics.`
 
 <br clear="right"/>
