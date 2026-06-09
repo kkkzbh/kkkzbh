@@ -39,18 +39,6 @@
 
 ---
 
-
-## ✦ Current Focus
-
-<img align="right" src="./assets/sakiko_focus.png" alt="Sakiko" height="230" />
-
-- 🧠 Advancing **KCP**, my C++26-inspired language/compiler prototype: diagnostics, stdlib formatting, IR/codegen, and miniC lab infrastructure.
-- 🧭 Extending **KCP's CLion tooling**: PSI parsing, references, rename, completion, syntax highlighting, and editor workflow.
-- 🚀 Maintaining **CPH Target Runner**, a CLion competitive-programming toolkit with sample management, Competitive Companion import, and Codeforces submission workflows.
-- 🐧 Shipping **Codex tooling for Fedora KDE**: RPM/DNF packaging, CI and release automation, GitHub Pages repository metadata, and desktop integration.
-
-<br clear="right"/>
-
 <p align="center">
   <img src="./assets/divider2.png" alt="divider" width="88%" />
 </p>
