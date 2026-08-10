@@ -5,10 +5,10 @@
 
   <style>
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
-    .name { font-size: 36px; font-weight: 760; letter-spacing: 0; fill: #0f172a; }
+    .name { font-size: 28px; font-weight: 760; letter-spacing: 0; fill: #0f172a; }
     .section { font-size: 16px; font-weight: 760; letter-spacing: 0; fill: #0f172a; }
     .label { font-size: 13px; letter-spacing: 0; fill: #64748b; }
-    .body { font-size: 16px; letter-spacing: 0; fill: #334155; }
+    .body { font-size: 14px; letter-spacing: 0; fill: #334155; }
     .contact { font-size: 15px; letter-spacing: 0; fill: #334155; }
     .strong { font-size: 16px; font-weight: 720; letter-spacing: 0; fill: #0f172a; }
     .cyan { fill: #0891b2; }
